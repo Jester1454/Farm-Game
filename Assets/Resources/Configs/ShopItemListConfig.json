@@ -1,0 +1,16 @@
+{
+    "_itemList": [
+        {
+            "_cost": 2.0,
+            "_itemType": 2
+        },
+        {
+            "_cost": 3.0,
+            "_itemType": 1
+        },
+        {
+            "_cost": 1.0,
+            "_itemType": 0
+        }
+    ]
+}

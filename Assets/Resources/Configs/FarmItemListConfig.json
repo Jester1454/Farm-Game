@@ -1,0 +1,49 @@
+{
+    "_consumableFarmItems": [
+        {
+            "_itemType": 1,
+            "_producingResourcesValue": {
+                "_type": 3,
+                "_quantity": 1
+            },
+            "_producingRecycleTime": 20.0,
+            "_currentProducingRecycleTime": 0.0,
+            "_consumableResourcesValue": {
+                "_type": 2,
+                "_quantity": 1
+            },
+            "_consumableRecycleTime": 20.0,
+            "_currentConsumableRecycleTime": 0.0
+        },
+        {
+            "_itemType": 2,
+            "_producingResourcesValue": {
+                "_type": 1,
+                "_quantity": 1
+            },
+            "_producingRecycleTime": 10.0,
+            "_currentProducingRecycleTime": 0.0,
+            "_consumableResourcesValue": {
+                "_type": 2,
+                "_quantity": 1
+            },
+            "_consumableRecycleTime": 30.0,
+            "_currentConsumableRecycleTime": 0.0
+        },
+        {
+            "_itemType": 0,
+            "_producingResourcesValue": {
+                "_type": 2,
+                "_quantity": 1
+            },
+            "_producingRecycleTime": 10.0,
+            "_currentProducingRecycleTime": 0.0,
+            "_consumableResourcesValue": {
+                "_type": 0,
+                "_quantity": 0
+            },
+            "_consumableRecycleTime": 0.0,
+            "_currentConsumableRecycleTime": 0.0
+        }
+    ]
+}

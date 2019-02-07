@@ -1,0 +1,25 @@
+{
+    "Resources": [
+        {
+            "_value": {
+                "_type": 1,
+                "_quantity": 0
+            },
+            "_unitPrice": 2.0
+        },
+        {
+            "_value": {
+                "_type": 2,
+                "_quantity": 0
+            },
+            "_unitPrice": 1.0
+        },
+        {
+            "_value": {
+                "_type": 3,
+                "_quantity": 0
+            },
+            "_unitPrice": 3.0
+        }
+    ]
+}
